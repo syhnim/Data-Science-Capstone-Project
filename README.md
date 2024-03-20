@@ -7,3 +7,5 @@ Subsequently, we conducted comprehensive data analysis, employing a variety of v
 A key aspect of our project was the utilization of the PrefixSpan algorithm for pattern recognition. This algorithm enabled us to identify frequent patterns within our extensive datasets, offering valuable insights into trends in trend buying and fashion preferences.
 
 Our project underscores the significance of data science methodologies in driving actionable insights and informing strategic decision-making in business contexts. As we conclude this project, we are excited to apply our learnings to future endeavors and contribute to the evolving landscape of data science.
+
+Link for presentation slide: https://docs.google.com/presentation/d/14yUYr_-hcwbISX3OmmoHw50b7VZqo7j2/edit?usp=sharing&ouid=109574231199540218009&rtpof=true&sd=true
